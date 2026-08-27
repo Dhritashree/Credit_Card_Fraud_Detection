@@ -12,6 +12,7 @@ This project detects fraudulent credit card transactions using Machine Learning 
 - Features: 30 (V1–V28 + Time + Amount)
 - Target: Class (0 = Normal, 1 = Fraud)
 - Note: Dataset is highly imbalanced
+- Dataset download: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## Models Used
 1. Logistic Regression
